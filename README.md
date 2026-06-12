@@ -48,11 +48,7 @@ The dashboard provides insights into **revenue, profit, order volume, and produc
 * **Data Visualization**
 * **Data Analysis**
 
----
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
 
 ---
 
